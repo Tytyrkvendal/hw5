@@ -1,0 +1,106 @@
+body  {
+  font-family: Lucida Sans Unicode, Lucida Grande,  sans-serif;
+  color: rgba(255,255,255,0.5);
+}
+
+*{box-sizing: border-box;
+ transition: all .1s ease-in;}
+
+p {
+   margin:0;}
+.cont
+
+    {
+    	display: inline-block;
+	max-width: 1200px;
+	max-height: 1200px;
+	border: 20px solid #2b81ac;	
+	font-size:0px; 
+  background: #3399cc;
+   }
+.tablsize
+     {
+      display: table;
+   margin-left: 20%;
+   margin-right: 20%;  
+   border-collapse: collapse; 
+   line-height: 1.5;
+  }
+
+ 
+
+.tablin25
+    {display: inline-block;
+    	background: white;
+      padding: 0;
+    	width: 25%;
+      height: 100px;
+      border: 2px solid white;
+      font-size: 24px;
+      text-align: center;}
+.tablin50
+   {display: inline-block;
+      background: white;
+      width: 50%;
+      height: 100px;
+      border: 2px solid white;
+      font-size: 24px;
+      text-align: center;}
+.tablin100
+    { display: inline-block;
+      background: yellow;
+      width: 100%;
+      height: 100px;
+      border: 2px solid white;
+      font-size: 24px;
+      text-align: center;}
+.text
+     { font-size: 25px;
+      	text-align: left;
+        color: white;
+        margin-left: 20%;}
+
+      .col1
+      {background:#3399cc;}
+       .col2
+      {background:#33cccc;}
+       .col3
+      {background:#996699;}
+      .col4
+      {background:#c24747;} 
+       .col5
+      {background:#e2674a;}  
+      .col6
+      {background:#ffcc66;} 
+       .col7
+      {background:#99cc99;}
+       .col8
+      {background:#669999;} 
+       .col9
+      {background:#cc6699;}  
+      .col10
+      {background:#339966;} 
+       .col11
+      {background:#666699;}
+
+.textdown
+  {font-size: 16px;
+    color: white;
+    margin-left: 20%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+     }
+   
+
+ul>li:hover {background:rgba(255,255,255,0.5);}
+    
+   
+
+
+    
+
+
+
+
+
+
